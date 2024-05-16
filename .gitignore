@@ -4,4 +4,5 @@ include/
 share/
 lib64/
 lib/
+__pycache__/
 
