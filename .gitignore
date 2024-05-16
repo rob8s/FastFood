@@ -5,4 +5,5 @@ share/
 lib64/
 lib/
 __pycache__/
+pyvenv.cfg/
 
